@@ -1,9 +1,12 @@
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
 * {
     margin: 0;
     padding: 0;
     border: none;
     box-sizing: border-box;
-    font-family: "Crimson Text", serif;
+/*    font-family: "Crimson Text", serif;*/
+    font-family: "Nanum Gothic", serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 145%;
